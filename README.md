@@ -9,3 +9,4 @@
 
 ## 2. Search Product
 ![Search](https://user-images.githubusercontent.com/104639605/235419437-3aab30db-1031-41f2-9d00-b6b723ceca9e.png)
+![Set Prize](https://user-images.githubusercontent.com/104639605/235420150-a6687227-8ecb-4586-9f97-e7e809e97a03.png)
